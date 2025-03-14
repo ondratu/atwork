@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=At Work
+Comment=At Work time dialog
+Exec=atwork %f
+Icon=atwork
+Terminal=false
+Categories=Office;
